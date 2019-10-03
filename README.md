@@ -1,11 +1,8 @@
 # Boomazon
-# liri-node-app
 unit 10 Node Homework
-# liri-node-app
-
 **Creator**: `Christin Boner`
 
-**Created on**: `September 25, 2019`
+**Created on**: `October 2, 2019`
 
 - - -
 
